@@ -1,0 +1,12 @@
+(librepcb_library 6cde91cb-119e-4bcc-980c-dadedfffae94
+ (name "Lolin")
+ (description "Wemos IoT modules and more (unofficial).")
+ (keywords "")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2024-11-11T21:31:42Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/Lolin.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+ (manufacturer "Lolin")
+)
