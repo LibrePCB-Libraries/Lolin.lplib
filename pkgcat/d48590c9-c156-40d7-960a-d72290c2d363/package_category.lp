@@ -1,0 +1,10 @@
+(librepcb_package_category d48590c9-c156-40d7-960a-d72290c2d363
+ (name "Lolin")
+ (description "Packages by Lolin")
+ (keywords "wemos")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2024-11-11T21:38:28Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
