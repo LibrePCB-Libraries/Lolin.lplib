@@ -3,7 +3,7 @@
  (description "Wemos IoT modules and more (unofficial).")
  (keywords "")
  (author "LibrePCB")
- (version "0.1")
+ (version "0.1.1")
  (created 2024-11-11T21:31:42Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Lolin.lplib")
